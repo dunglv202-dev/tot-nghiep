@@ -1,0 +1,6 @@
+[submodule "tot-nghiep-be"]
+	path = tot-nghiep-be
+	url = https://github.com/dunglv202-dev/tot-nghiep-be
+[submodule "tot-nghiep-fe"]
+	path = tot-nghiep-fe
+	url = https://github.com/dunglv202-dev/tot-nghiep-fe
